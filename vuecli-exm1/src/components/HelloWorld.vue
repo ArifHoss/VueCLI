@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <img src="../assets/apa1.png" alt="">
     <h1>{{ msg }}</h1>
     <p>Welcome to my first vue cli text....</p>
   </div>
